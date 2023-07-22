@@ -1,8 +1,19 @@
-body {
+@font-face {
+	font-family: Noto; 
+	src: url(NotoSerif.ttf);
+}
 
-	background-image: url(ecardpic.jpg);
-	background-repeat: no-repeat;
-	background-position: center;
-	background-attachment: fixed;
+figcaption {
 
+	font-family: Noto;
+}
+
+figure {
+
+	font-family: Noto;
+}
+
+h3 {
+
+	font-family: Noto;
 }
